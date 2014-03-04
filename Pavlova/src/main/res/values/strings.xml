@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pavlova</string>
+    <string name="title_section1">Recipe of the day</string>
+    <string name="title_section2">Categories</string>
+    <string name="title_section3">Ideas</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_search">Search</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search recipes</string>
+    <string name="action_add_recipe">Add</string>
+    <string name="action_settings">Settings</string>
+    <string name="recipe_search_result">Recipe</string>
+</resources>
